@@ -336,6 +336,32 @@
       "icon": "card_giftcard",
       "leftMemu": false,
       "functionCode": "post_edit"
+    },
+    {
+      "id": "19724610-a03c-488f-a993-72d5fd956a2e",
+      "parentId": 4,
+      "name": "联系我们",
+      "title": "联系我们",
+      "sort": 4,
+      "leftMemu": true,
+      "isLock": false,
+      "icon": "phone"
+    },
+    {
+      "id": "89f38d33-9a90-4676-9ad9-3eb9c4bc04ba",
+      "parentId": "19724610-a03c-488f-a993-72d5fd956a2e",
+      "name": "建议意见",
+      "title": "建议意见",
+      "sort": 0,
+      "icon": "question-circle-o"
+    },
+    {
+      "id": "b35fc917-9ec4-4523-8797-5bf33441ef68",
+      "parentId": "19724610-a03c-488f-a993-72d5fd956a2e",
+      "name": "商业合作",
+      "title": "商业合作",
+      "sort": 0,
+      "icon": "pie-chart"
     }
   ],
   "function": [
